@@ -1,1 +1,4 @@
 # Multimodal_Fake_News_Detection
+
+### Research_Paper_Links
+`https://www.researchgate.net/publication/400288968_Interpreting_Multimodal_Fake_News_Detection_Models_An_Experimental_Study_of_Performance_Factors_and_Modality_Contributions/link/697e0fd564ca8a382087e658/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19`

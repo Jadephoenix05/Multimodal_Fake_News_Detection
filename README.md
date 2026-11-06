@@ -77,8 +77,8 @@ Model performance is evaluated using Accuracy, Precision, Recall, and Macro-F1 S
 This project explores multimodal deep learning techniques for identifying misinformation using textual and visual evidence.
 
 ## Contributors
-- G Padma Pranitha (@Jadephoenix05)
-- Charu Shieja Maurya (@CC-CoderCharu)
-- Harini S (@Harini4441)
-- Sahith (@sahith89)
+- [@Jadephoenix05 (G. Padma Pranitha)](https://github.com/Jadephoenix05)
+- [@CC-CoderCharu (Charu Maurya)](https://github.com/CC-CoderCharu)
+- [@Harini4441 (Harini S)](https://github.com/Harini4441)
+- [@sahith89 (Sahith N)](https://github.com/@sahith89))
 

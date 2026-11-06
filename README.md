@@ -1,8 +1,8 @@
 # Multimodal_Fake_News_Detection
+This project is an implementation of the research paper "Interpreting Multimodal Fake News Detection Models : An Experimental Study of Performance Factors and Modality Contributions." The aim of this project is purely for learning basis and to gain a better understanding of Multimodal Frameworks".
 
-### Research_Paper_Links
+## Research Paper Link
 `https://www.researchgate.net/publication/400288968_Interpreting_Multimodal_Fake_News_Detection_Models_An_Experimental_Study_of_Performance_Factors_and_Modality_Contributions/link/697e0fd564ca8a382087e658/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19`
-# Multimodal Fake News Detection
 
 ## Overview
 A deep learning project that detects fake news by analyzing both textual and visual information. It combines Natural Language Processing (NLP) and Computer Vision to improve news classification.
@@ -52,7 +52,7 @@ Model performance is evaluated using Accuracy, Precision, Recall, and Macro-F1 S
 - Python
 - PyTorch
 - Hugging Face Transformers
-- BERTweet
+- BERTweet , BERT , DistilBERT
 - Swin Transformer
 - Pandas and NumPy
 - Scikit-learn
@@ -71,5 +71,14 @@ Model performance is evaluated using Accuracy, Precision, Recall, and Macro-F1 S
 
 > Note: Ensure that the dependency file and script names match the current repository structure before running these commands. Download and preprocess the datasets separately if they are not included in the repository.
 
+## Dashboard Link
+`https://github.com/sahith89/multimodel-fake-detection`
 ## Purpose
 This project explores multimodal deep learning techniques for identifying misinformation using textual and visual evidence.
+
+## Contributors
+- G Padma Pranitha (@Jadephoenix05)
+- Charu Shieja Maurya (@CC-CoderCharu)
+- Harini S (@Harini4441)
+- Sahith (@sahith89)
+
